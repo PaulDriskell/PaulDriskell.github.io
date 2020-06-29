@@ -25,12 +25,13 @@ This is essentially a dropzone for my adventures and art...
 <h2> ADVENTURE </h2>
 <img src="https://images-03.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTczNDgwODg3ODEzODA4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.1mQn7CPXpas3IM364u0jqJneDW-i-NInQ3AhW9LThKY">
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyOTI2NjI3MzE3NzI4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.0qGRB-MW9ivo3JtxlTIy6SuWD4DhpSSeisWvLUwHeUA">
-</body>
-
-
 <h3> MY FRIENDS OF THE SKY </h3>
 <img src="">
 heres gonna go some pictures of the birds
-<Footer>Thanks for taking the time to check my stuff out! Updates on the way!</Footer>
+<Footer>Thanks for taking the time to check my stuff out! Updates on the way!
+</body>
+
+
+</Footer>
 </html>
 
