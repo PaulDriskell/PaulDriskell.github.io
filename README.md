@@ -6,7 +6,7 @@
 </head>
 
 <body bgcolor="blue" text="red"> 
-# PaulDriskell.github.io
+
 This is my nook in the deep deep web
 <h1> A place you can find meeee </h1>
 <br>
