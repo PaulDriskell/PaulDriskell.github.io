@@ -1,5 +1,4 @@
-# PaulDriskell.github.io
-This is my nook in the deep deep web
+
 <html> 
 
 <head> 
@@ -7,7 +6,8 @@ This is my nook in the deep deep web
 </head>
 
 <body bgcolor="blue" text="red"> 
-
+# PaulDriskell.github.io
+This is my nook in the deep deep web
 <h1> A place you can find meeee </h1>
 <br>
 <p>Pauldriskell1991@gmail.com <br>
