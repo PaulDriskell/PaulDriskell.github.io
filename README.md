@@ -3,11 +3,11 @@
 <title>Life</title>
 </head>
 <body bgcolor="blue" text="red"> 
-<h1> A place you can find miiiie </h1>
+<h1> A place you can find me </h1>
 <br>
-<p>Pauldriskell1991@gmail.com <br>
-youtube <br>
-twitch <br> </p>
+<p>paolodiggs@yahoo.com <br>
+youtube: https://www.youtube.com/channel/UC_axYxuKsCKUlquNNUSGBtA/<br>
+twitch: https://www.twitch.tv/thelonliestpopsicle <br> </p>
 Here is a rough skeleton for my page..stay tuned..it will grow in time with many beautiful pictures and fonts and what not...But for now, the basics!
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyNDAwNjYxNTk1NDA2Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.mNOQELTE1J-N2Sl0I6K_CULMO6ChbXk1XvKZDqwB8ik">
 This is essentially a dropzone for my adventures and art...
