@@ -1,12 +1,13 @@
 <HTML>
 <head>
 Borobudur! How I miss you...
-<img src="https://images-03.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTczNDgwODg3ODEzODA4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.1mQn7CPXpas3IM364u0jqJneDW-i-NInQ3AhW9LThKY"> <br>
+</head>
+<body>
+<img src="https://images-03.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTczNDgwODg3ODEzODA4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.1mQn7CPXpas3IM364u0jqJneDW-i-NInQ3AhW9LThKY"> 
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyOTI2NjI3MzE3NzI4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.0qGRB-MW9ivo3JtxlTIy6SuWD4DhpSSeisWvLUwHeUA">
 <img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTY5NzA3MzE0NDQ4MDEyIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.NFEdRd572P_pFjHX3rGuClXiYcVEcfkn20LgDhsY8Ek"> 
 <img src="https://plus.gopro.com/media-library/o6MWrvo1OnE4g">
-<img src="
-https://plus.gopro.com/media-library/Ro0J7bbzKak5n">
+<img src="https://plus.gopro.com/media-library/Ro0J7bbzKak5n">
 <img src="https://plus.gopro.com/media-library/nrv14kLXPEedZ">
 <img src="https://plus.gopro.com/media-library/zPdWG4zl8WR6B">
 <img src="https://plus.gopro.com/media-library/Wy3KGJPPJq1vZ">
@@ -14,8 +15,7 @@ https://plus.gopro.com/media-library/Ro0J7bbzKak5n">
 <img src="https://plus.gopro.com/media-library/dMlvrkQWkZZ9a">
 <img src="https://plus.gopro.com/media-library/ZNl796LJkZ2w4">
 <img src="https://plus.gopro.com/media-library/o6MWr95dLR3aV">
-<img src="
-https://plus.gopro.com/media-library/8vwRZB1RZrXlX">
+<img src="https://plus.gopro.com/media-library/8vwRZB1RZrXlX">
 <img src="https://plus.gopro.com/media-library/G1mzv86QKk1rw">
 <img src="https://plus.gopro.com/media-library/dMlvrkQWkZZ9a">
 <img src="https://plus.gopro.com/media-library/2RBl9OEza1G62">
@@ -119,7 +119,5 @@ https://plus.gopro.com/media-library/8vwRZB1RZrXlX">
 <img src="https://plus.gopro.com/media-library/nrv14DM72pM5a">
 <img src="https://plus.gopro.com/media-library/G1mzvLblP4G8v">
 <img src="https://plus.gopro.com/media-library/DbDqZ77dDMDpp">
-</head>
-<body>
 </body>
 </HTML>
