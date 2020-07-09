@@ -1,3 +1,5 @@
+<HTML>
+<head>
 Borobudur! How I miss you...
 <img src="https://images-03.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTczNDgwODg3ODEzODA4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.1mQn7CPXpas3IM364u0jqJneDW-i-NInQ3AhW9LThKY"> <br>
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyOTI2NjI3MzE3NzI4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.0qGRB-MW9ivo3JtxlTIy6SuWD4DhpSSeisWvLUwHeUA">
@@ -117,3 +119,7 @@ https://plus.gopro.com/media-library/8vwRZB1RZrXlX">
 <img src="https://plus.gopro.com/media-library/nrv14DM72pM5a">
 <img src="https://plus.gopro.com/media-library/G1mzvLblP4G8v">
 <img src="https://plus.gopro.com/media-library/DbDqZ77dDMDpp">
+</head>
+<body>
+</body>
+</HTML>
