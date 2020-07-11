@@ -20,7 +20,9 @@ Here is a rough skeleton for my page..stay tuned..it will grow in time with many
 A sample of whats to come!
 <h2> ADVENTURE </h2>
 <h3> MISC</h3>
-<a href="./pages/MISC.html">MISC</a>
+<a href="./pages/MISC.html">MISC
+<img src="">
+</a> 
 </body>
 <Footer>Thanks for taking the time to check my stuff out! Updates on the way!</Footer>
 </html>

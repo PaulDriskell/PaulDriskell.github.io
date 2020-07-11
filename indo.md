@@ -1,10 +1,9 @@
-Borobudur! How I miss you...
+Borobudur! How I miss you...o
 <img src="https://images-03.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTczNDgwODg3ODEzODA4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.1mQn7CPXpas3IM364u0jqJneDW-i-NInQ3AhW9LThKY"> <br>
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyOTI2NjI3MzE3NzI4Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.0qGRB-MW9ivo3JtxlTIy6SuWD4DhpSSeisWvLUwHeUA">
-<img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTY5NzA3MzE0NDQ4MDEyIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.NFEdRd572P_pFjHX3rGuClXiYcVEcfkn20LgDhsY8Ek"> 
-<img src="https://plus.gopro.com/media-library/o6MWrvo1OnE4g">
-<img src="
-https://plus.gopro.com/media-library/Ro0J7bbzKak5n">
+<img src="https://images-04.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTY5NzMzNzU1MzQwNDY1Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.7s5RsV2Tk14TkTBD4aV9Ke9KNxZ0qU5lWwCYXK192Es"> 
+<img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTY5NzU4NTY4ODQyOTczIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.Tx8STp2RDsOUDZBgTiXU1KZcjsRsk7gxTpNGg8tf50o">
+<img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTY5NzgyODg3NDE3NjAwIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.Z6fNLRzjMhQ0h1_LWujr2p201eBIG61_1Q1t3kk9-lY">
 <img src="https://plus.gopro.com/media-library/nrv14kLXPEedZ">
 <img src="https://plus.gopro.com/media-library/zPdWG4zl8WR6B">
 <img src="https://plus.gopro.com/media-library/Wy3KGJPPJq1vZ">
