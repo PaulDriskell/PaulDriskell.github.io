@@ -5,13 +5,13 @@
 <body bgcolor="blue" text="red"> 
 <h1> A place you can find me </h1>
 <p>paolodiggs@yahoo.com <br>
-<a href="https://www.youtube.com/channel/UC_axYxuKsCKUlquNNUSGBtA/">youtube</a><br>
+<a href="">youtube</a><br>
 <a href="https://www.twitch.tv/thelonliestpopsicle">Twitch</a><br>
 <a href="https://www.snapchat.com/add/p-driz">Snapchat</a><br>
 <br>  *A NOTE* <br>
 This is a dropzone for my art/hobbies and a project to help me in the world of web development - my twitch and youtube are fairly naked but give it some time each month will have updates! ok Check out a few samples of my photography -i have tons to add- and check in next month! <br>
 </p>
-<a href="./pages/Beach.html">Beach Adventure</a>
+<a href="./pages/Beach.html">Beach</a>
 <img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjU0NzI4NDM4NzA5MjI0Njg1Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.rA75UzndJ9_i95KKZGvk5u1xIRP87BL2ugNUT7HdEes">
 <a href="./pages/birds.html">MY FRIENDS OF THE SKY</a>
 <img src="https://images-02.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjQwMjA4NDU1NjA2MjA3ODg1Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.EAhTuvLk3bfCly22htC-0R_yMnv9dJG6scMLlhjiaF4">
