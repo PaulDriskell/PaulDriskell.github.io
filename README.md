@@ -21,9 +21,11 @@ Here is a rough skeleton for my page..stay tuned..it will grow in time with many
 <h4><a href="./pages/indo.html">INDONESIA</a>
 <img src="https://images-04.gopro.com/resize/1920w/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjE3MTcyNDAwNjYxNTk1NDA2Iiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOnRydWUsIm8iOjEsInRyYW5zIjpudWxsLCJyZWdpb24iOiJ1cy13ZXN0LTIifQ.mNOQELTE1J-N2Sl0I6K_CULMO6ChbXk1XvKZDqwB8ik"> </h4>
 <br>
-<a href="./pages/MISC.html">MISC
-<img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjQ4NTc0OTQ5MzE0NTI4NTIzIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.sQQSuHYGIA3630YUlfRyRfK5MONcijr9q2MrW0R4vgA">
-</a> 
+<a href="./pages/MISC.html">MISC</a>
+<img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjQ4NTc0OTQ5MzE0NTI4NTIzIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.sQQSuHYGIA3630YUlfRyRfK5MONcijr9q2MrW0R4vgA"> 
+<br>
+<a href="./Tenhut.html">Wish I took more pictures </a>
+<img src="https://oi935.photobucket.com/albums/ad193/pauldriskell85/Screenshot_2014-12-12-11-37-20_zpskrep6afu.png">
 A sample of whats to come! Soon I will have the video clips up and commentary typed in for each group of photos...
 </body>
 <Footer>Thanks for taking the time to check my stuff out! Updates on the way!</Footer>
