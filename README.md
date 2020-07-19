@@ -24,7 +24,7 @@ Here is a rough skeleton for my page..stay tuned..it will grow in time with many
 <a href="./pages/MISC.html">MISC
 <img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjQ4NTc0OTQ5MzE0NTI4NTIzIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.sQQSuHYGIA3630YUlfRyRfK5MONcijr9q2MrW0R4vgA">
 </a> 
-A sample of whats to come!
+A sample of whats to come! Soon I will have the video clips up and commentary typed in for each group of photos...
 </body>
 <Footer>Thanks for taking the time to check my stuff out! Updates on the way!</Footer>
 </html>
