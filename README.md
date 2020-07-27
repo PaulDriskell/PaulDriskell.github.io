@@ -25,7 +25,6 @@ Here is a rough skeleton for my page..stay tuned..it will grow in time with many
 <img src="https://images-03.gopro.com/resize/1920wwp/eyJhbGciOiJIUzI1NiJ9.eyJtZWRpdW1faWQiOiIxNjQ4NTc0OTQ5MzE0NTI4NTIzIiwib3duZXIiOiJhNWUwMTVlYi05MzJiLTQ3ZmQtYjBhMC02ODFiZTQxN2Y0ZWEiLCJpc19wdWJsaWMiOmZhbHNlLCJvIjoxLCJ0cmFucyI6bnVsbCwicmVnaW9uIjoidXMtd2VzdC0yIn0.sQQSuHYGIA3630YUlfRyRfK5MONcijr9q2MrW0R4vgA"> 
 <br>
 <a href="./Tenhut.html">Wish I took more pictures </a> <br>
-<img src="https://oi935.photobucket.com/albums/ad193/pauldriskell85/Screenshot_2014-12-12-11-37-20_zpskrep6afu.png"> <br>
 A sample of whats to come! Soon I will have the video clips up and commentary typed in for each group of photos...
 </body>
 <Footer>Thanks for taking the time to check my stuff out! Updates on the way!</Footer>
